@@ -19,5 +19,5 @@ This project implements an **ETL and Machine Learning Pipeline** to classify twe
 ## **Installation & Setup**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/abg3/Disaster-Response-ML-Project.git
+git clone https://github.com/devcode-X/AIDISASTERMANAGEMENT.git
 cd Disaster-Response-ML-Project
